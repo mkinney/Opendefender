@@ -1,0 +1,148 @@
+!!! Font font0 uses a font (소야꼬마9) not installed on this system - Font has NOT been regenerated
+Converting GML script: ${project_dir}/objects/objectUI/Create_0.gml
+Converted builtin - line 2: background_index[0] = background0 -> __background_set( e__BG.Index, 0, background0 )
+Converted builtin - line 4: background_index[0] = background1 -> __background_set( e__BG.Index, 0, background1 )
+
+Converting GML script: ${project_dir}/objects/objectUI/Step_2.gml
+Converted builtin - line 5: view_xview[0] = x-240 -> __view_set( e__VW.XView, 0, x-240 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] = y-135 -> __view_set( e__VW.YView, 0, y-135 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_yview[0] = clamp(__view_get( e__VW.YView, 0 ), 0, room_height - __view_get( e__VW.HView, 0 )) -> __view_set( e__VW.YView, 0, clamp(__view_get( e__VW.YView, 0 ), 0, room_height - __view_get( e__VW.HView, 0 )) )
+
+Converting GML script: ${project_dir}/objects/objectUI/Step_0.gml
+Converted builtin - line 25: background_index[0] = background1 -> __background_set( e__BG.Index, 0, background1 )
+
+Converting GML script: ${project_dir}/objects/objectUI/Draw_0.gml
+Converted builtin - line 5: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 27: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 29: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 31: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 33: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 35: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 37: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 41: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 45: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 49: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 53: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 57: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 61: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 65: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 69: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 73: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 76: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 27: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 29: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 31: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 33: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 35: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 37: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 41: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 45: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 49: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 53: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 57: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 61: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 65: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 69: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 73: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 76: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}/objects/object_laser/Step_2.gml
+Converted builtin - line 17: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}/objects/object_humanoid/Step_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}/objects/enemy_lander/Step_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}/objects/enemy_mutant/Step_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}/objects/enemy_bomber/Step_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}/objects/enemy_pod/Step_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}/objects/enemy_swarmer/Step_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}/objects/enemy_baiter/Step_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}/objects/object_enemybullet/Step_2.gml
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'sound_laser' - setting to default audio group
+Missing audiogroup for sound: 'sound_bonus' - setting to default audio group
+Missing audiogroup for sound: 'sound_thurst' - setting to default audio group
+Missing audiogroup for sound: 'sound_start' - setting to default audio group
+Missing audiogroup for sound: 'sound_explode' - setting to default audio group
+Missing audiogroup for sound: 'sound_warning' - setting to default audio group
+Missing audiogroup for sound: 'sound_playerdead' - setting to default audio group
+Missing audiogroup for sound: 'sound_enemyshoot' - setting to default audio group
+Missing audiogroup for sound: 'sound_enemyshoot2' - setting to default audio group
+Missing audiogroup for sound: 'sound_baiterwarning' - setting to default audio group
+Missing audiogroup for sound: 'sound_player1up' - setting to default audio group
+Missing audiogroup for sound: 'sound_enemydead' - setting to default audio group
+Missing audiogroup for sound: 'sound_humanoiddead' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action/action_color.gml'
+Added compatibility script 'action/action_draw_rectangle.gml'
+Added compatibility script 'action/action_end_sound.gml'
+Added compatibility script 'action/action_fullscreen.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'sound/sound_isplaying.gml'
+Added compatibility script 'sound/sound_loop.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'sound/sound_stop.gml'
+Added compatibility script 'sound/sound_stop_all.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'

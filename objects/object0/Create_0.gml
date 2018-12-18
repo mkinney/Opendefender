@@ -1,0 +1,13 @@
+see = 0;
+jet = 0;
+maxspeed = 6;
+savenum = 0;
+dying = 0;
+dyingdelay = 0;
+heightmove = 0;
+heightscale = 0;
+heightdelay = 0;
+hit = 0;
+image_speed = 0.5;
+movdir = 0;
+movdir2 = 0;
