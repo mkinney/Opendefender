@@ -1,2 +1,1 @@
-movdelay = 0
-
+movdelay = 0;
