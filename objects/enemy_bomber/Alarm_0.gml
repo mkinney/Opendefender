@@ -1,3 +1,2 @@
-instance_create(x,y,object_enemybullet)
-shootdelay = 0
-
+instance_create(x, y, object_enemybullet);
+shootdelay = 0;
