@@ -1,2 +1,2 @@
-capposition = 0 see = 0
-
+capposition = 0;
+see = 0;
