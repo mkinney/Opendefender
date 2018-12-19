@@ -1,2 +1,2 @@
-/// @description (Old DnD) - destroy the self object
+/// @description destroy the self object
 instance_destroy();

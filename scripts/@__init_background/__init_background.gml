@@ -16,4 +16,3 @@ enum e__BG
 	Blend,
 	Alpha,
 };
-

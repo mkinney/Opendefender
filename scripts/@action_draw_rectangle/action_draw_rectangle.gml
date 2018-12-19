@@ -1,4 +1,4 @@
-/// @description (Old DnD) - draw rectangle
+/// @description draw rectangle
 /// @param x1	x position of start point
 /// @param y1	y position of start point
 /// @param x2	x position of end point
@@ -16,4 +16,4 @@ if (global.__argument_relative) {
 	yy2 += y;
 }  // end if
 
-draw_rectangle( xx1, yy1, xx2, yy2, argument4 );
+draw_rectangle(xx1, yy1, xx2, yy2, argument4);

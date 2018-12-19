@@ -1,2 +1,2 @@
-/// @description (Old DnD) - restart game
+/// @description restart game
 game_restart();

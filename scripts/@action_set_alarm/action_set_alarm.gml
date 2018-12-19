@@ -1,4 +1,4 @@
-/// @description (Old DnD) - set alarm
+/// @description set alarm
 /// @param index alarm index
 /// @param val value to set to
-alarm_set( argument1, argument0 );
+alarm_set(argument1, argument0);

@@ -1,4 +1,5 @@
-viewon = 0
+//landers are the most important enemy of defender, so they have the most complicated AI. you don't have to see it unless you want to make a defender clone.
+viewon = 0;
 if instance_exists(object0) and object0.dying = 0 {
 for(var i=-1;i<2;i++) {
 if x-room_width*i > __view_get( e__VW.XView, 0 )-sprite_width/2 and x-room_width*i < __view_get( e__VW.XView, 0 )+480+sprite_width/2
@@ -68,5 +69,3 @@ alarm[0] = 120-(dif*3)-30+random(60)
 }
 }
 if viewon = 0 {shootdelay = 0 alarm[0] = 0}
-//landers are the most important enemy of defender, so they have the most complicated AI. you don't have to see it unless you want to make a defender clone.
-
