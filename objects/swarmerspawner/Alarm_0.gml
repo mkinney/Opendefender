@@ -1,3 +1,2 @@
-image_index = 1
-alarm[1] = 10
-
+image_index = 1;
+alarm[1] = 10;
