@@ -106,22 +106,22 @@ if (dying == 1) {
 		objectUI.deathcheck = 1;
 		alarm[1] = 110;
 	}
-
-	if (heightmove > 0) {
-		if (heightdelay == 0) {
-			heightdelay = 1;
-		}
-		if ((heightmove == 1) and (heightscale > -3)) {
-			heightscale += -1;
-		}
-		if ((heightmove == 2) and (heightscale < 3)) {
-			heightscale += +1;
-		}
-		alarm[0] = 2;
-	}
-
-	vspeed = heightscale
 }
+
+if (heightmove > 0) {
+	if (heightdelay == 0) {
+		heightdelay = 1;
+	}
+	if ((heightmove == 1) and (heightscale > -3)) {
+		heightscale += -1;
+	}
+	if ((heightmove == 2) and (heightscale < 3)) {
+		heightscale += +1;
+	}
+	alarm[0] = 2;
+}
+
+vspeed = heightscale
 
 if (heightmove == 0) {
 	vspeed = 0;
