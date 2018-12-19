@@ -1,13 +1,13 @@
-Source: [https://old.reddit.com/r/gamemaker/comments/a79esz/opendefender_an_open_source_defender_clone_for_gms/]()
+Source: [Reddit](https://old.reddit.com/r/gamemaker/comments/a79esz/opendefender_an_open_source_defender_clone_for_gms/)
 
-I've imported it into GMS v2. You should be able to play it here: [https://mkinney.github.io/Opendefender/run/index.html]()
+I've imported it into GMS v2. You should be able to play it here: [play](https://mkinney.github.io/Opendefender/run/index.html)
 
-Here are the comments from the author [https://old.reddit.com/user/hijongpark]() on that post:
+Here are the comments from the author [hijongpark](https://old.reddit.com/user/hijongpark) on that post:
 
 
-Video : [https://youtu.be/w3541xIAA4Y]()
+[Video](https://youtu.be/w3541xIAA4Y)
 
-Download : [https://gamejolt.com/games/ODfen/385409]()  (Note: Both the windows executable and the v1 source is in the zip.)
+[Download](https://gamejolt.com/games/ODfen/385409) (Note: Both the windows executable and the v1 source is in the zip.)
 
 OpenDefender is an open source defender clone created with Game maker : Studio 1.
 
